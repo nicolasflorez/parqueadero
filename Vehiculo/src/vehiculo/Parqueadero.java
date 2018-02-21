@@ -14,7 +14,6 @@ public class Parqueadero
         miFicha.setVisible(true);
         
         
-        
     Moto miMoto=new Moto();
     }
     
