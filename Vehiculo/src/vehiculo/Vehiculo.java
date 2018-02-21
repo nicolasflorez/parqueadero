@@ -4,18 +4,8 @@ package vehiculo;
 
 public class Vehiculo {
 
+String Marca;
 private int cilindraje;
-private string modelo;
+private String modelo;
 private int año;
-
-    private static class string {
-
-        public string() {
-        }
-    }
-
-   
-        
-    }
-    
-
+}
